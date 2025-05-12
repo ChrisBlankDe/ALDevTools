@@ -4,5 +4,6 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "useCompilerFolder": true
+  "useCompilerFolder": true,
+  "doNotRunTests": true
 }
